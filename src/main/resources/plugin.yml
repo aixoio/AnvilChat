@@ -1,0 +1,4 @@
+name: AnvilChat
+version: '${project.version}'
+main: github.aixoio.anvilchat.AnvilChat
+api-version: 1.19
